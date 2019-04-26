@@ -14,7 +14,7 @@ export default () => {
   return (
     <div>
       <Typography variant={'h3'} gutterBottom>
-        {'Aca Crear Usuario'}
+        {'Formulario Crear Usuario'}
       </Typography>
       <Button
         variant={'contained'}
